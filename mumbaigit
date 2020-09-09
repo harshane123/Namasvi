@@ -1,0 +1,4 @@
+i=1
+while 
+   print("python")
+   i=i+1
